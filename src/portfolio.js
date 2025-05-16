@@ -275,14 +275,13 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Data Entry",
-          company: "Waninggap Miraf.",
+          title: "Full Stack",
+          company: "",
           company_url: "https://www.dicoding.com/",
           logo_path: "nptel_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Bekerja sebagai data entry di pemerintahan kabupaten Merauke Provinsi Papua Selatan",
+          duration: "June 2023 - 2023",
+          location: "Indonesia",
+          description: "--",
           color: "#000000",
         },
       ],
@@ -298,7 +297,7 @@ const experience = {
           duration: "May 2023 - Nov 2023",
           location: "Batam, Indonesia",
           description:
-            "Mengikuti sertifikasi yang diikuti 1000 peserta untuk menadaptakan sertifikasi Linux Redhat dengan ujian penyaringan 200 orang",
+            "Saya mengikuti sebuah program sertifikasi bergengsi yang diikuti oleh lebih dari 1.000 peserta, dengan tujuan untuk mendapatkan sertifikasi Linux Red Hat, salah satu sertifikasi paling diakui dalam dunia sistem operasi berbasis Linux. Dalam prosesnya, seluruh peserta harus melalui tahapan seleksi yang ketat, di mana hanya 200 peserta terbaik yang berhasil lolos ke tahap ujian akhir. Ujian ini dirancang untuk mengukur kemampuan teknis secara mendalam, mulai dari administrasi sistem hingga manajemen jaringan berbasis Linux. Keikutsertaan dalam program ini menjadi pengalaman yang sangat berharga, karena tidak hanya menantang secara teknis, tetapi juga mempertemukan saya dengan para profesional IT dari berbagai latar belakang.",
           color: "#ee3c26",
         },
         {
@@ -309,7 +308,7 @@ const experience = {
           duration: "May 2023 - Nov 2023",
           location: "Batam, Indonesia",
           description:
-            "Membangun aplikasi untuk mendeteksi penyakit daun jagung pada petani yang membutuhkan sistem pengawasan citra",
+            "Saya membangun sebuah aplikasi cerdas yang dirancang khusus untuk membantu petani dalam mendeteksi penyakit pada daun tanaman jagung secara lebih cepat dan akurat. Aplikasi ini memanfaatkan teknologi pengolahan citra (image processing) dan pembelajaran mesin (machine learning) untuk menganalisis kondisi daun berdasarkan gambar yang diunggah oleh pengguna. Sistem ini dikembangkan sebagai solusi atas kebutuhan petani terhadap sistem pengawasan tanaman berbasis citra digital, yang mampu memberikan deteksi dini terhadap gejala penyakit daun. Dengan adanya aplikasi ini, diharapkan petani dapat mengambil tindakan preventif atau penanganan lebih cepat sebelum penyakit menyebar luas, sehingga dapat meningkatkan produktivitas dan mengurangi potensi kerugian hasil panen.",
           color: "#ee3c26",
         },
         {
@@ -317,10 +316,10 @@ const experience = {
           company: "Dicoding Indonesia.",
           company_url: "https://www.dicoding.com/",
           logo_path: "dicoding_logo.jpg",
-          duration: "June 2023 - Present",
-          location: "Papua Selatan, Indonesia",
+          duration: "June 2022 - Des 2022",
+          location: "Bandung, Indonesia",
           description:
-            "Mengikuti magang dalam pengembangan aplikasi IRIS dengan 4 anggota debagai tim pembangunan API dan menerapkan metode perancangan perangkat lunak",
+            "Saya mengikuti program magang dalam proyek pengembangan aplikasi IRIS, sebuah sistem berbasis teknologi yang dirancang untuk memenuhi kebutuhan spesifik pengguna dalam pengelolaan data atau layanan digital. Dalam proyek ini, saya tergabung dalam tim yang terdiri dari empat anggota, di mana saya berperan aktif dalam tim pengembangan API (Application Programming Interface). Kami bekerja sama untuk merancang dan membangun sistem backend yang efisien dan terstruktur, serta menerapkan metode perancangan perangkat lunak yang sistematis seperti software development lifecycle, termasuk tahap analisis kebutuhan, perancangan arsitektur, implementasi, dan pengujian. Pengalaman ini memberikan pemahaman mendalam tentang kolaborasi tim dalam pengembangan perangkat lunak nyata dan penerapan praktik terbaik dalam membangun layanan digital yang skalabel dan dapat diandalkan.",
           color: "#000000",
         },
       ],
