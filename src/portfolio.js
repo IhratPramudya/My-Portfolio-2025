@@ -176,7 +176,7 @@ const degrees = {
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://pmbubsi.id/kampus/index-main.html",
     },
   ],
 };
