@@ -298,7 +298,7 @@ const experience = {
           duration: "May 2023 - Nov 2023",
           location: "Batam, Indonesia",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Mengikuti sertifikasi yang diikuti 1000 peserta untuk menadaptakan sertifikasi Linux Redhat dengan ujian penyaringan 200 orang",
           color: "#ee3c26",
         },
         {
@@ -309,7 +309,7 @@ const experience = {
           duration: "May 2023 - Nov 2023",
           location: "Batam, Indonesia",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Membangun aplikasi untuk mendeteksi penyakit daun jagung pada petani yang membutuhkan sistem pengawasan citra",
           color: "#ee3c26",
         },
         {
@@ -320,7 +320,7 @@ const experience = {
           duration: "June 2023 - Present",
           location: "Papua Selatan, Indonesia",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Mengikuti magang dalam pengembangan aplikasi IRIS dengan 4 anggota debagai tim pembangunan API dan menerapkan metode perancangan perangkat lunak",
           color: "#000000",
         },
       ],
