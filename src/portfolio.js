@@ -348,7 +348,7 @@ const publications = {
       name:
         "Implementasi Algoritma k-Means pada klusterisasi tingkat kasus stunting di Kabupaten Batang",
       createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in Sinta 5",
+      description: "Paper published in Sinta 4",
       url: "https://garuda.kemdikbud.go.id/documents/detail/4723112",
     },
   ],
